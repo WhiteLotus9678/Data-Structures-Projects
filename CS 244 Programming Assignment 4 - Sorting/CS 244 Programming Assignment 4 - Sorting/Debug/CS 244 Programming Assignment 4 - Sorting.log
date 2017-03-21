@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\student data\documents\visual studio 2015\projects\cs 244 programming assignment 4 - sorting\cs 244 programming assignment 4 - sorting\source.cpp(229): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS 244 Programming Assignment 4 - Sorting.vcxproj -> D:\Student Data\Documents\Visual Studio 2015\Projects\CS 244 Programming Assignment 4 - Sorting\Debug\CS 244 Programming Assignment 4 - Sorting.exe
+  CS 244 Programming Assignment 4 - Sorting.vcxproj -> D:\Student Data\Documents\Visual Studio 2015\Projects\CS 244 Programming Assignment 4 - Sorting\Debug\CS 244 Programming Assignment 4 - Sorting.pdb (Partial PDB)
